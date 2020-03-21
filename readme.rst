@@ -3,7 +3,7 @@ CodeIgniter RESTful API
 #######################
 
 API sederhana untuk menjalankan fungsi CRUD, silahkan gunakan software Postman.
-untuk URL gunakan http://hostname/ci_rest_mahasiswa
+untuk URL gunakan http://hostname/ci_rest/mahasiswa
 untuk method gunakan POST untuk fungsi CREATE, GET untuk fungsi READ, PUT untuk fungsi UPDATE, dan DELETE untuk fungsi DELETE
 
 silahkan untuk menggunakan query tabel berikut dengan database yaitu "ci_rest"
